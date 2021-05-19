@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="66401" started-at="2021-05-19T05:12:52Z" finished-at="2021-05-19T05:13:58Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="66401" started-at="2021-05-19T05:12:52Z" finished-at="2021-05-19T05:13:58Z">
+      <class name="Automation">
+        <test-method status="PASS" signature="baseUrl()[pri:0, instance:Automation@4de8b406]" name="baseUrl" duration-ms="28956" started-at="2021-05-19T11:12:52Z" finished-at="2021-05-19T11:13:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- baseUrl -->
+        <test-method status="PASS" signature="checkingBuyFiledNullEnteredSellvalue()[pri:1, instance:Automation@4de8b406]" name="checkingBuyFiledNullEnteredSellvalue" duration-ms="189" started-at="2021-05-19T11:13:21Z" finished-at="2021-05-19T11:13:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkingBuyFiledNullEnteredSellvalue -->
+        <test-method status="PASS" signature="checkingSellFieldNullEnteredBuyValue()[pri:2, instance:Automation@4de8b406]" name="checkingSellFieldNullEnteredBuyValue" duration-ms="203" started-at="2021-05-19T11:13:21Z" finished-at="2021-05-19T11:13:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkingSellFieldNullEnteredBuyValue -->
+        <test-method status="PASS" signature="changeCountrycheckCurrency()[pri:3, instance:Automation@4de8b406]" name="changeCountrycheckCurrency" duration-ms="23003" started-at="2021-05-19T11:13:21Z" finished-at="2021-05-19T11:13:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- changeCountrycheckCurrency -->
+        <test-method status="PASS" signature="diffirenceAmmount()[pri:4, instance:Automation@4de8b406]" name="diffirenceAmmount" duration-ms="14025" started-at="2021-05-19T11:13:44Z" finished-at="2021-05-19T11:13:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- diffirenceAmmount -->
+      </class> <!-- Automation -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
